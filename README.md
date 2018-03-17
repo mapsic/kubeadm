@@ -1,4 +1,6 @@
-# kubeadm镜像构建
+# kubeadm init 所许docker镜像构建
+
+
 
 所需镜像参考链接：
 
