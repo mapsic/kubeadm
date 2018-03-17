@@ -1,4 +1,4 @@
-# kubeadm init 所许docker镜像构建
+# kubeadm init 所需docker镜像构建
 
 
 
