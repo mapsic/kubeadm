@@ -3,10 +3,10 @@
 set -o errexit
 set -o nounset
 
-KUBE_VERSION=v1.9.4
-KUBE_PAUSE_VERSION=3.0
-ETCD_VERSION=3.1.11
-DNS_VERSION=1.14.7
+KUBE_VERSION=v1.10.2
+KUBE_PAUSE_VERSION=3.1
+ETCD_VERSION=3.1.12
+DNS_VERSION=1.14.8
 
 GCR_URL=gcr.io/google_containers
 ALIYUN_URL=registry.cn-hangzhou.aliyuncs.com/mapsic
