@@ -1,1 +1,1 @@
-FROM k8s.gcr.io/nginx-slim:0.8
+FROM k8s.gcr.io/nginx-slim:0.27
